@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DMT6018LDR")(type "KiCad")(uri "${KIPRJMOD}/kicad-dmt6018ldr/DMT6018LDR.kicad_sym")(options "")(descr ""))
+)

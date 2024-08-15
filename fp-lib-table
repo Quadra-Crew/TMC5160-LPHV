@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "V-DFN3030-8 (Type H)")(type "KiCad")(uri "${KIPRJMOD}/kicad-dmt6018ldr/V-DFN3030-8 (Type H).pretty")(options "")(descr ""))
+)

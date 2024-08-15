@@ -1,0 +1,4 @@
+[submodule "kicad-dmt6018ldr"]
+	path = kicad-dmt6018ldr
+	url = git@github.com:PhilippMolitor/kicad-dmt6018ldr.git
+
