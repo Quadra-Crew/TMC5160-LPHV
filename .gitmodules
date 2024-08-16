@@ -1,4 +1,4 @@
 [submodule "kicad-dmt6018ldr"]
 	path = kicad-dmt6018ldr
-	url = git@github.com:Quadra-Crew/kicad-dmt6018ldr.git
+	url = https://github.com/Quadra-Crew/kicad-dmt6018ldr.git
 
