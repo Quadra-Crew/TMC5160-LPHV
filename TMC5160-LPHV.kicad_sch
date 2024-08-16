@@ -3201,16 +3201,6 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "0.9"
-			(at 120.65 464.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
 		(property "MPN" "DMT6018LDR-7"
 			(at 120.65 664.77 0)
 			(effects
@@ -3464,16 +3454,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.9"
-			(at 120.65 500.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 				(hide yes)
 			)
 		)
@@ -4694,16 +4674,6 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "0.9"
-			(at 120.65 482.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
 		(property "MPN" "DMT6018LDR-7"
 			(at 120.65 682.55 0)
 			(effects
@@ -4887,16 +4857,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.9"
-			(at 120.65 518.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 				(hide yes)
 			)
 		)
